@@ -1,1 +1,1 @@
-# SQL_project_video_rental_store
+# w3-project_SQLvideoclub
